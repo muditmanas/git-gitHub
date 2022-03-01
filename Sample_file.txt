@@ -1,1 +1,4 @@
 using it to check the upload ans sync with github.
+
+check sync working finr.
+now checking for diff and doing random changes.
